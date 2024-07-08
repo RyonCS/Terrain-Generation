@@ -2,7 +2,7 @@
  
 Terrain Generation and Exploration (Including Heightmaps, Lighting, Bilinear Interpolation, Skycube, Texture Sampling)
  
-## YouTube/Dropbox/Drive Link:
+## Video:
  
 https://www.youtube.com/watch?v=Drsqm0ZTXW4
  
